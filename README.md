@@ -1,3 +1,4 @@
 # educational-practice
 Бедрин
-available-unfitted.gl.at.ply.gg:3109
+go run main.go -f hosts.txt -c 3 -interval 1 -output abc.txt
+go run main.go -f hosts.txt -monitor -output abc.txt
